@@ -9,6 +9,7 @@ A simple and clean task management application built with React, TypeScript, and
 - ✨ Create, complete, and delete tasks
 - 💾 Automatic local storage persistence
 - 🎨 Clean and responsive design
+- 🌙 Dark mode support
 - ⌨️ Keyboard shortcuts support
 
 ## Tech Stack
