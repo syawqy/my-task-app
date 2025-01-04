@@ -2,7 +2,7 @@
 
 A simple and clean task management application built with React, TypeScript, and Tailwind CSS.
 
-![App Screenshot - Add screenshot here]
+[![Screenshot](https://github.com/syawqy/my-task-app/blob/main/screenshot.jpg?raw=true)](https://github.com/syawqy/my-task-app/raw/refs/heads/main/my-task-app-demo.webm)
 
 ## Features
 
